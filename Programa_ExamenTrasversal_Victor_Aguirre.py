@@ -22,13 +22,6 @@ while True:
 
 
 
-diccionario{
-    "Region"
-}
-
-
-
-122
 
 
 
@@ -39,4 +32,4 @@ diccionario{
 
 
 
-
+qweqweqweqw112
